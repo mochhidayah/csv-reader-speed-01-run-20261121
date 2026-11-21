@@ -1,0 +1,4 @@
+# csv-reader-speed-01: ignore local build noise, keep the repo clean.
+node_modules/
+/output/
+*.draft.png
